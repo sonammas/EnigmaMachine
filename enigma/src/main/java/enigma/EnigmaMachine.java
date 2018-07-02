@@ -4,7 +4,7 @@ import rotor.*;
 
 public class EnigmaMachine {
 
-    //TODO not implemented
+    //TODO not implemented Circular Queue
     //static notches - when each rotor rotates to get the value
     public final static StringBuffer[] notches = {new StringBuffer("Q"), new StringBuffer("E"),
             new StringBuffer("V")};
